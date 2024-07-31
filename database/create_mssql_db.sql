@@ -5,7 +5,7 @@ In case I get round to adding MS SQL support, this creates and populates the tab
 CREATE DATABASE dvwa;
 
 DECLARE
-  username CONSTANT VARCHAR2(5) := 'admin';
+/*  username CONSTANT VARCHAR2(5) := 'admin';*/
 
 USE dvwa;
 
