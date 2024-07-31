@@ -4,7 +4,7 @@
 	<div id="code">
 	<table width='100%' bgcolor='white' style="border:2px #C0C0C0 solid">
 	<tr>
-	<td><div id="code">
+	<th scope="col"><div id="code">
 		<h3>About</h3>
 		<p>Some web applications allow the user to specify input that is used directly into file streams or allows the user to upload files to the server.
 			At a later time the web application accesses the user supplied input in the web applications context. By doing this, the web application is allowing
@@ -50,7 +50,7 @@
 
 		<h3>Impossible Level</h3>
 		<p>The developer calls it quits and hardcodes only the allowed pages, with there exact filenames. By doing this, it removes all avenues of attack.</p>
-	</div></td>
+	</div></th>
 	</tr>
 	</table>
 
